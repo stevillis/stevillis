@@ -32,12 +32,17 @@
     <img align="center" alt="VSCode" height="30" width="40"
         src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
-  
-## Você pode me encontrar no Linkedin também:
-<a href="https://www.linkedin.com/in/stevillis" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
 
+## Meus projetos
+<div>
+    <ul>
+        <li>
+            <a href="https://obscure-badlands-07952.herokuapp.com/">Sistema de Registro de Certificados e Diplomas</a> que estou desenvolvendo com Django e Bootstrap<br> Use as credenciais: <b>admin</b>, <b>123456</b> ;)
+        </li>
+    </ul>
+</div>
+    
+## Mais detalhes no meu <a href="https://www.linkedin.com/in/stevillis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ##
 
 ![Snake animation](https://github.com/stevillis/stevillis/blob/output/github-contribution-grid-snake.svg)
