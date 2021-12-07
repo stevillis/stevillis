@@ -42,7 +42,7 @@
     </ul>
 </div>
     
-## Mais detalhes no meu <a href="https://www.linkedin.com/in/stevillis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## Mais detalhes no meu site: <a href="https://stevillis.herokuapp.com/" target="_blank" style="color:#ff0066;">stevillis.herokuapp.com</a>
 ##
 
 ![Snake animation](https://github.com/stevillis/stevillis/blob/output/github-contribution-grid-snake.svg)
