@@ -1,4 +1,4 @@
-## Estudando para me tornar um Desenvolvedor Full-Stack com a stack Django + React 🙈
+## Desenvolvedor Full Stack Django Júnior
 <div align="center">
     <a href="https://github.com/stevillis">
         <img height="180em"
