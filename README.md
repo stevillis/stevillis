@@ -33,16 +33,11 @@
         src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
 
-## Meus projetos
-<div>
-    <ul>
-        <li>
-            <a href="https://obscure-badlands-07952.herokuapp.com/">Sistema de Registro de Certificados e Diplomas</a> que estou desenvolvendo com Django e Bootstrap<br> Use as credenciais: <b>admin</b>, <b>123456</b> ;)
-        </li>
-    </ul>
-</div>
-    
-## Mais detalhes no meu site: <a href="https://stevillis.herokuapp.com/" target="_blank" style="color:#ff0066;">stevillis.herokuapp.com</a>
+
+
+## Mais detalhes no meu site: <br>
+<a href="https://stevillis.herokuapp.com/" target="_blank" style="color:#ff0066;">stevillis.herokuapp.com</a>
 ##
+
 
 ![Snake animation](https://github.com/stevillis/stevillis/blob/output/github-contribution-grid-snake.svg)
