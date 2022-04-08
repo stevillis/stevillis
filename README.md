@@ -1,4 +1,4 @@
-## Desenvolvedor Full Stack Django Júnior
+## Desenvolvedor Full Stack Júnior
 <div align="center">
     <a href="https://github.com/stevillis">
         <img height="180em"
