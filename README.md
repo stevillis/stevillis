@@ -35,10 +35,9 @@
 
 
 
-## Mais detalhes no meu site: <br>
-<a href="https://stevillis.herokuapp.com/" target="_blank" style="color:#ff0066;">stevillis.herokuapp.com</a>
-##
-Obs.: Pode demorar um pouquinho até o Heroku acordar e exibir o site ;)
+## Mais detalhes no meu site: [stevillis-site-production.up.railway.app](https://stevillis-site-production.up.railway.app)
+
+Obs.: Pode demorar um pouquinho até o Railway acordar e exibir o site.
 
 
 ![Snake animation](https://github.com/stevillis/stevillis/blob/output/github-contribution-grid-snake.svg)
