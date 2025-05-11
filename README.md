@@ -1,8 +1,8 @@
 # Stévillis Sousa
 
-Cientista de Dados buscando sempre criar soluções eficientes e orientadas por dados. Gosto de transformar dados em insights valiosos e desenvolver aplicações de ponta a ponta. 
+Sou um Analista de Sistemas e Cientista de Dados dedicado, que trabalha na **criação de sistemas que atendam a necessidade do cliente, sejam fáceis de manter e escalar**. Atuo na **transformação de dados complexos em insights que gerem valor** e sou adepto ao aprendizado contínuo. 
 
-Visite o [meu site](https://stevillis.up.railway.app/) para visualizar meus projetos e entrar em contato.
+Visite o [meu site](https://stevillis.com.br) para visualizar meus projetos e entrar em contato.
 
 ## 🚀 Tecnologias e Ferramentas
 
